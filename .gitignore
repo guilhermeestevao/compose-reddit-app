@@ -1,0 +1,31 @@
+*.iml
+/local.properties
+.DS_Store
+.externalNativeBuild
+.cxx
+
+# User-specific configurations
+.idea/
+
+# Built application files
+*.apk
+*.ap_
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+/build/
+
+# Android Studio
+/*/build/
+/*/*/build/
+/buildSrc/build
+buildSrc/build
+/buildSrc/.gradle
+/*/out/
+/*/*/production/
+/captures/
